@@ -6,7 +6,7 @@
 }
 
 .card {
-    position: fixed;
+    position: relative;
     max-width: 400px;
     height: 500px;
     text-align: center;
